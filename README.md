@@ -2,7 +2,8 @@
 Live Site:
 https://noteful.jgd625.now.sh/
 
-Pairs with Noteful-Api: available on Heroku as https://polar-refuge-77764.herokuapp.com/
+API server:
+https://boiling-spire-95159.herokuapp.com/
 
 
 
